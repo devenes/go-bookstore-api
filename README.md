@@ -1,8 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./go.png" alt="Go Bookstore Api" />
-
-
-  <!-- <a href="https://gobookstoreapi.netlify.app">Demo</a> -->
+  <img src="./go.png" alt="Go Bookstore Api" />  
 </div>
 
 <h1 align="center">Bookstore API</h1>
@@ -21,13 +18,10 @@
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/devenes/go-bookstore-api?color=56BEB8" /> -->
 </p>
 
-<!-- Status -->
-
-<!-- <h4 align="center"> 
+<h4 align="center"> 
 	🚧  Go Bookstore Api 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
+</h4>
+<hr> 
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -43,7 +37,7 @@
 
 ## :dart: About ##
 
-Go Bookstore Api is a simple REST API for a book store.
+This is a simple API for a bookstore that basically only has a few endpoints and built with Golang.
 
 ## :sparkles: Features ##
 

@@ -1,12 +1,11 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Go Bookstore Api" />
+  <img src="./go.png" alt="Go Bookstore Api" />
 
-  &#xa0;
 
   <!-- <a href="https://gobookstoreapi.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Go Bookstore Api</h1>
+<h1 align="center">Bookstore API</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/devenes/go-bookstore-api?color=56BEB8">

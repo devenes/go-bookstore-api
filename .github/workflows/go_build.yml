@@ -9,6 +9,7 @@ on:
 
 jobs:
   GoBuild:
+    environment: Go
     runs-on: ubuntu-latest
 
     steps:

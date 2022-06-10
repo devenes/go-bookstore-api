@@ -8,6 +8,9 @@
 <h1 align="center">Bookstore API</h1>
 
 <p align="center">
+<img alt="Tool" src="https://badges.aleen42.com/src/docker.svg">
+  <img alt="Tool" src="https://badges.aleen42.com/src/golang.svg">
+  <img alt="Tool" src="https://badges.aleen42.com/src/github.svg">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/devenes/go-bookstore-api?color=56BEB8">
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/devenes/go-bookstore-api?color=56BEB8">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/devenes/go-bookstore-api?color=56BEB8">
@@ -69,8 +72,6 @@ git clone https://github.com/devenes/go-bookstore-api
 
 # Access the project folder
 cd go-bookstore-api
-
-# The server will initialize in the <http://localhost:8080>
 ```
 
 - Start the locally:
@@ -78,9 +79,10 @@ cd go-bookstore-api
 go run main.go
 ```
 
-- Start the server in a Docker container:
+- ## 🐳 Start the server in a Docker container:
 ```bash
 docker build -t devenes/bookstore-api:1.0 ./ && docker run -p 8080:8080 -d devenes/bookstore-api:1.0 && explorer "http://localhost:8080/books"
+# The server will initialize in the <http://localhost:8080>
 ```
 
 - Add a new book:
@@ -120,4 +122,4 @@ Made with :heart: by <a href="https://github.com/devenes" target="_blank">devene
 
 &#xa0;
 
-<a href="#top">Back to top</a>
+<a href="#top">⬆️ Back to top</a>

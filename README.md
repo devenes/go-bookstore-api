@@ -8,7 +8,8 @@
 <h1 align="center">Bookstore API</h1>
 
 <p align="center">
-<img alt="Tool" src="https://badges.aleen42.com/src/docker.svg">
+  <img alt="Build" src="https://github.com/devenes/go-bookstore-api/actions/workflows/go_build.yml/badge.svg">
+  <img alt="Tool" src="https://badges.aleen42.com/src/docker.svg">
   <img alt="Tool" src="https://badges.aleen42.com/src/golang.svg">
   <img alt="Tool" src="https://badges.aleen42.com/src/github.svg">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/devenes/go-bookstore-api?color=56BEB8">

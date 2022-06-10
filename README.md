@@ -57,7 +57,7 @@ The following tools were used in this project:
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Go](https://golang.org) installed.
+Before starting :checkered_flag: you need to have [Git](https://git-scm.com), [Go](https://golang.org), [Docker](https://www.docker.com/) and [GCC](https://gcc.gnu.org/) installed on your machine.
 
 ## :checkered_flag: Starting ##
 
